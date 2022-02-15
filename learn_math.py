@@ -4,3 +4,5 @@ def add(x,y):
   return s
 
 # TO-DO add multiplication function
+def multiply(x,y):
+  return (x*y)
