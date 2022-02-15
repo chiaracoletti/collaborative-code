@@ -5,11 +5,10 @@ def add(x,y):
 
 # TO-DO add multiplication function
 
-
-
-
-
+def multiply(x,y):
+  return (x*y)
 
 
 def subtract(x,y):
   return x-y
+
